@@ -1,8 +1,7 @@
-# Energize
+![TitleScreen](EnergizeTitle.png)
 ### A game by Jacob Allen and Matt Eden
 ###### Created for COMPSYS 302 at the University of Auckland
 
-![TitleScreen](EnergizeTitle.png)
 
 Energize is a side-scrolling action adventure game set in the far future. It follows the quest of the main character Otto and their journey to recover the McGuffin from Evil Bad Guy.
 
@@ -23,7 +22,7 @@ Energize is a side-scrolling action adventure game set in the far future. It fol
 
 #### Launch instructions
 ##### For single / local multiplayer:
-Open a new Terminal window `ctrl + alt + t` and enter the comand `java -jar <path>/2019-Java-Group34.jar`
+Open a new Terminal window `CTRL + ALT + T` and enter the comand `java -jar <path>/2019-Java-Group34.jar`
 
 ##### For networked multiplayer:
 On both the host and client computer run the comand `java -jar <path>/2019-Java-Group34.jar [<host_ip_address>][<port_number>]`.
@@ -33,8 +32,8 @@ On both the host and client computer run the comand `java -jar <path>/2019-Java-
 
 `port_number` Default value is 4200. Only change this if receiving `*There is already a host at this address. Joining that game instead*` error message. Valid port numbers are from 1023 - 65535 but these are not guaranteed to be available.
 
-On the host computer, click "Host Game", while on any connecting computers click "Join Game".
+On the host computer, click "Host Game". While on any connecting computers click "Join Game".
 
-#### Prerequisites:
+#### Requirements:
 - Java 1.8. This can be checked by running `java -version` in terminal.
 - For networked multiplayer, all devices wishing to connect to the same host game must be on the same network.
