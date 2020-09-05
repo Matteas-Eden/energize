@@ -1,3 +1,4 @@
+![energize-title](EnergizeTitleScreen-NOMENU.png)
 # Energize
 ### A game by Jacob Allen and Matt Eden
 ###### Created for COMPSYS 302 at the University of Auckland
